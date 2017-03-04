@@ -1,11 +1,11 @@
-name: Test de langage gabc;
+name:  Test de langage gabc;
 notabene: il s'agit d'établir une coloration syntaxique complète pour Notepad++;
 gabc-copyright: copyright sur ce fichier gabc;
 score-copyright: copyright sur la partition source;
 office-part: introitus/...;
 occasion: dans le calendrier de écclésial;
 meter: pour les hymnes avec une métrique;
-commentary: provenance des paroles;
+commentary:  provenance des paroles;
 arranger: nom de l'arrangeur;
 gabc-version: 0.9.3; 									% abandon comme non-sens?
 author: s'il est connu;
@@ -14,14 +14,14 @@ manuscript: nom du manuscrit;
 manuscript-reference: référence CAO;
 manuscript-storage-place: librairie ou monastère;
 book: livre duquel est tirée la partition;
-transcriber: nom du transcripteur en gabc;
+transcriber:  nom du transcripteur en gabc;
 transcription-date: 2009;
 gregoriotex-font: greciliae; 							% à voir si à garder?
-mode: 6;
+mode:  6;
 initial-style: 1;
 user-notes: autres notes;
-annotation: IN.;
-annotation: 6;
+annotation:  IN.;
+annotation:  6;
 %%
 (c4)
 Cor(cd@fef~) *() Ie(e)su(e/fgf/eoe!fv/ded.) (,)
